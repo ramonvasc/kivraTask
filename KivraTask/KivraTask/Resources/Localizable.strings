@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  KivraTask
+
+  Created by Ramon Vasconcelos on 28/03/2019.
+  Copyright © 2019 Ramon Vasconcelos. All rights reserved.
+*/
+
+"try_again" = "Please try again!";
+"missing_info" = "Missing email/password.";
